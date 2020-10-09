@@ -23,7 +23,7 @@ Table of Contents
 ## Person_Job_Matching_Recommendation
 - Chuan Qin, Hengshu Zhu, Tong Xu, Chen Zhu, Chao Ma, Enhong Chen, Hui Xiong, An Enhanced Neural Network Approach to Person-Job Fit in Talent Recruitment, In ACM Transactions on Information Systems, 2020, 38(2):15.
 
-- [Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network](G:\myMendeleyDocuments\Bian et al._2020_Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network.pdf). CIKM 2020.
+- Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network. CIKM 2020.
 
 - [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://dl.acm.org/authorize?N688410). KDD 2019.
 
