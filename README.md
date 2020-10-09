@@ -25,6 +25,8 @@ Table of Contents
 
 - Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network. CIKM 2020.
 
+- [Learning Effective Representations for Person-Job Fit by Feature Fusion](https://arxiv.org/pdf/2006.07017.pdf). CIKM 2020
+
 - [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://dl.acm.org/authorize?N688410). KDD 2019.
 
 - [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://dl.acm.org/authorize?N688320). KDD 2019.
@@ -40,8 +42,6 @@ Table of Contents
 - Domain adaptation for person-job fit with transferable deep global match network. EMNLP 2019.
 
 - Resumegan: An optimized deep representation learning framework for talent-job fit via adversarial learning. CIKM 2019.
-
-- [Learning Effective Representations for Person-Job Fit by Feature Fusion](https://arxiv.org/pdf/2006.07017.pdf)
 
 - Should we embed? A study on the online performance of utilizing embeddings for real-time job recommendations. RecSys 2019.
 
