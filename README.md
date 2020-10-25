@@ -31,37 +31,37 @@ Table of Contents
 
 - [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://repository.kaust.edu.sa/bitstream/handle/10754/656763/kdd19-rt0938p.pdf?sequence=1&isAllowed=y). KDD 2019.
 
-- [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://dl.acm.org/authorize?N688320). KDD 2019.
+- [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://www.researchgate.net/profile/Qingxin_Meng5/publication/334717945_A_Hierarchical_Career-Path-Aware_Neural_Network_for_Job_Mobility_Prediction/links/5dcec741299bf1b74b44ea0c/A-Hierarchical-Career-Path-Aware-Neural-Network-for-Job-Mobility-Prediction.pdf). KDD 2019.
 
-- DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview. KDD 2019.
+- [DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview](http://staff.ustc.edu.cn/~tongxu/Papers/Chuan_KDD19.pdf). KDD 2019.
 
 - [Enhancing person-job fit for talent recruitment: An ability-aware neural network approach.](http://staff.ustc.edu.cn/~tongxu/Papers/Chuan_SIGIR18.pdf) SIGIR 2018.
 
-- Le Ran, Zhang Tao,Hu Wenpeng, Zhao Dongyan, Song Yang, Yan Rui, Towards Effective and Interpretable Person-Job Fitting. CIKM 2019.
+- Le Ran, Zhang Tao,Hu Wenpeng, Zhao Dongyan, Song Yang, Yan Rui, [Towards Effective and Interpretable Person-Job Fitting](https://www.researchgate.net/profile/Rui_Yan45/publication/337018779_Towards_Effective_and_Interpretable_Person-Job_Fitting/links/5e8601854585150839b7c27f/Towards-Effective-and-Interpretable-Person-Job-Fitting.pdf). CIKM 2019.
 
 
-- Person-Job Fit：Adapting the Right Talent for the Right Job with Joint Representation Learning. ACM Transactions on Management Information Systems 2018.
+- [Person-Job Fit：Adapting the Right Talent for the Right Job with Joint Representation Learning](https://arxiv.org/pdf/1810.04040). ACM Transactions on Management Information Systems 2018.
 
 
-- Domain adaptation for person-job fit with transferable deep global match network. EMNLP 2019.
+- [Domain adaptation for person-job fit with transferable deep global match network](https://www.aclweb.org/anthology/D19-1487.pdf). EMNLP 2019.
 
 
 - Resumegan: An optimized deep representation learning framework for talent-job fit via adversarial learning. CIKM 2019.
 
 
-- Should we embed? A study on the online performance of utilizing embeddings for real-time job recommendations. RecSys 2019.
+- [Should we embed? A study on the online performance of utilizing embeddings for real-time job recommendations](https://arxiv.org/pdf/1907.06556.pdf). RecSys 2019.
 
 
-- Explaining and exploring job recommendations: A user-driven approach for interacting with knowledge-based job recommender systems. RecSys 2019.
+- [Explaining and exploring job recommendations: A user-driven approach for interacting with knowledge-based job recommender systems](https://www.researchgate.net/profile/Robin_De_Croon/publication/335771582_Explaining_and_exploring_job_recommendations_a_user-driven_approach_for_interacting_with_knowledge-based_job_recommender_systems/links/5d923495299bf10cff1cb57e/Explaining-and-exploring-job-recommendations-a-user-driven-approach-for-interacting-with-knowledge-based-job-recommender-systems.pdf). RecSys 2019.
 
 
-- A Combined Representation Learning Approach for Better Job and Skill Recommendation. CIKM 2018.
+- [A Combined Representation Learning Approach for Better Job and Skill Recommendation](https://scholarworks.iupui.edu/bitstream/handle/1805/20918/Dave_2019_combined.pdf?sequence=1&isAllowed=n). CIKM 2018.
 
 
-- User click prediction for personalized job recommendation. World Wide Web 2018.
+- [User click prediction for personalized job recommendation](https://sci-hub.se/10.1007/s11280-018-0568-z). World Wide Web 2018.
 
 
-- How to get them a dream job?: Entity-aware features for personalized job search ranking. KDD 2016.
+- [How to get them a dream job?: Entity-aware features for personalized job search ranking](https://www.kdd.org/kdd2016/papers/files/adp0518-liA.pdf). KDD 2016.
 
 
 ## High_Potential_Talent_Matching
