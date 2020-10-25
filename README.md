@@ -31,7 +31,7 @@ Table of Contents
 
 - [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://repository.kaust.edu.sa/bitstream/handle/10754/656763/kdd19-rt0938p.pdf?sequence=1&isAllowed=y). KDD 2019.
 
-- [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://www.researchgate.net/profile/Qingxin_Meng5/publication/334717945_A_Hierarchical_Career-Path-Aware_Neural_Network_for_Job_Mobility_Prediction/links/5dcec741299bf1b74b44ea0c/A-Hierarchical-Career-Path-Aware-Neural-Network-for-Job-Mobility-Prediction.pdf). KDD 2019.
+- [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](./papers/A-Hierarchical-Career-Path-Aware-Neural-Network-for-Job-Mobility-Prediction.pdf). KDD 2019.
 
 - [DuerQuiz: A Personalized Question Recommender System for Intelligent Job Interview](http://staff.ustc.edu.cn/~tongxu/Papers/Chuan_KDD19.pdf). KDD 2019.
 
