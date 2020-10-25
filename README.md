@@ -21,15 +21,15 @@ Table of Contents
 ## Review_on_Deep_Matching
 
 ## Person_Job_Matching_Recommendation
-- Chuan Qin, Hengshu Zhu, Tong Xu, Chen Zhu, Chao Ma, Enhong Chen, Hui Xiong, An Enhanced Neural Network Approach to Person-Job Fit in Talent Recruitment, In ACM Transactions on Information Systems, 2020, 38(2):15.
+- Chuan Qin, Hengshu Zhu, Tong Xu, Chen Zhu, Chao Ma, Enhong Chen, Hui Xiong, [An Enhanced Neural Network Approach to Person-Job Fit in Talent Recruitment](https://bigdata.ustc.edu.cn/paper_pdf/2020/Chuan-Qin-TOIS.pdf), In ACM Transactions on Information Systems, 2020, 38(2):15.
 
 
-- Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network. CIKM 2020.
+- [Learning to Match Jobs with Resumes from Sparse Interaction Data using Multi-View Co-Teaching Network](https://arxiv.org/pdf/2009.13299). CIKM 2020.
 
 
 - [Learning Effective Representations for Person-Job Fit by Feature Fusion](https://arxiv.org/pdf/2006.07017.pdf). CIKM 2020
 
-- [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://dl.acm.org/authorize?N688410). KDD 2019.
+- [Interview choice reveals your preference on the market: To improve job-resume matching through profiling memories](https://repository.kaust.edu.sa/bitstream/handle/10754/656763/kdd19-rt0938p.pdf?sequence=1&isAllowed=y). KDD 2019.
 
 - [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://dl.acm.org/authorize?N688320). KDD 2019.
 
