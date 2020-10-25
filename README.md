@@ -46,7 +46,7 @@ Table of Contents
 - [Domain adaptation for person-job fit with transferable deep global match network](https://www.aclweb.org/anthology/D19-1487.pdf). EMNLP 2019.
 
 
-- Resumegan: An optimized deep representation learning framework for talent-job fit via adversarial learning. CIKM 2019.
+- [Resumegan: An optimized deep representation learning framework for talent-job fit via adversarial learning](https://github.com/shengyp/deep_matching/blob/gh-pages/papers/Luo%20et%20al._2019_Resumegan%20An%20optimized%20deep%20representation%20learning%20framework%20for%20talent-job%20fit%20via%20adversarial%20learning.pdf). CIKM 2019.
 
 
 - [Should we embed? A study on the online performance of utilizing embeddings for real-time job recommendations](https://arxiv.org/pdf/1907.06556.pdf). RecSys 2019.
