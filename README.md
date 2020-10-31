@@ -73,7 +73,7 @@ Table of Contents
 
 [KDD 2020顶会论文:如何为临床试验匹配最合适的患者？](https://mp.weixin.qq.com/s/utkSCxko8IvukQFceyjR8g) 2020.
 
-[基于多视图协作学习的人岗匹配研究 | CIKM 2020](https://mp.weixin.qq.com/s/alUSnM9CaZFipQOYNtZPRQ) 2020.
+[基于多视图协作学习的人岗匹配研究 | CIKM 2020](https://mp.weixin.qq.com/s/alUSnM9CaZFipQOYNtZPRQ).
 
 
 ## Fasion_Recommendation
