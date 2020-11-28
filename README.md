@@ -19,6 +19,8 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## Review_on_Deep_Matching
+-  [漫谈语义相似度](https://mp.weixin.qq.com/s/6471zQdXa_2KzqEF45erbg), 2020.
+
 
 ## Person_Job_Matching_Recommendation
 - Chuan Qin, Hengshu Zhu, Tong Xu, Chen Zhu, Chao Ma, Enhong Chen, Hui Xiong, [An Enhanced Neural Network Approach to Person-Job Fit in Talent Recruitment](https://bigdata.ustc.edu.cn/paper_pdf/2020/Chuan-Qin-TOIS.pdf), In ACM Transactions on Information Systems, 2020, 38(2):15.
